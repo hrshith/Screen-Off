@@ -1,7 +1,7 @@
 
-# Laptop Screen Off ubuntu 
+# Screen Off
 
-This project provides a script/utility to turn off the laptop screen programmatically.
+A useful script for home server users who like me are using laptops as their home servers. This script allows you to turn your laptop screen off (default 2 mins) since there is no such functionality available natively.
 
 ## Installation
 
@@ -12,4 +12,5 @@ Usage: This section would explain how to use the script or utility to turn off t
 ## Usage
 
 Run the following command to turn off the laptop screen:
-./ screenoff.sh
+./screenoff.sh
+
